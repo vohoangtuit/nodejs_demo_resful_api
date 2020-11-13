@@ -1,0 +1,6 @@
+1/ USER
+  - CREATE USER: /api/user/create
+  - GET ALL USER: /api/user/getall
+  - GET SINGLE USER: /api/user/detail/:id
+  - DELETE A USER: /api/user/delete/:id
+  - USER GET SELF : /api/user/me
